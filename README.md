@@ -1,7 +1,7 @@
 # NodeJS-LabelAdminPanel
-Free 'Label' Admin Panel developed with Node JS & MYSQL.
+'Admin' Panel developed with Node JS & MYSQL.
 
-BLOG | https://www.gokhandogru.net/jwt-loginregister-panel-node-js-mysql/
+BLOG | 
 
 ## Installation
 
